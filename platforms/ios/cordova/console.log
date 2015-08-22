@@ -1,0 +1,248 @@
+2015-08-11 20:42:59.246 iAd[19894:565592] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/6379519F-B295-48C5-8B76-264D7174FD5D/Library/Cookies/Cookies.binarycookies
+2015-08-11 20:42:59.330 iAd[19894:565592] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 20:42:59.330 iAd[19894:565592] Multi-tasking -> Device: YES, App: YES
+2015-08-11 20:42:59.332 iAd[19894:565592] Unlimited access to network resources
+2015-08-11 20:42:59.334 iAd[19894:565592] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 20:42:59.586 iAd[19894:565592] Resetting plugins due to page load.
+2015-08-11 20:42:59.628 iAd[19894:565592] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/23E2661A-67AC-46D8-9253-A1C00B9DCC69/iAd.app/www/index.html
+2015-08-11 20:45:08.732 iAd[20077:567015] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/BC484859-74FA-4F50-9340-13D742B5E6FA/Library/Cookies/Cookies.binarycookies
+2015-08-11 20:45:08.808 iAd[20077:567015] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 20:45:08.808 iAd[20077:567015] Multi-tasking -> Device: YES, App: YES
+2015-08-11 20:45:08.810 iAd[20077:567015] Unlimited access to network resources
+2015-08-11 20:45:08.811 iAd[20077:567015] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 20:45:08.898 iAd[20077:567015] Resetting plugins due to page load.
+2015-08-11 20:45:08.923 iAd[20077:567015] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/322C6D4B-07DC-401C-BC57-80AB441451CF/iAd.app/www/index.html
+2015-08-11 20:45:47.648 iAd[20077:567622] Terminating since there is no system app.
+2015-08-11 20:48:30.345 iAd[20450:570314] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/64125AFC-E541-4BD6-91FA-C64E0C4C8255/Library/Cookies/Cookies.binarycookies
+2015-08-11 20:48:30.412 iAd[20450:570314] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 20:48:30.412 iAd[20450:570314] Multi-tasking -> Device: YES, App: YES
+2015-08-11 20:48:30.413 iAd[20450:570314] Unlimited access to network resources
+2015-08-11 20:48:30.415 iAd[20450:570314] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 20:48:30.495 iAd[20450:570314] Resetting plugins due to page load.
+2015-08-11 20:48:30.521 iAd[20450:570314] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/F1D7164F-5E68-4793-8896-0CDFD1191719/iAd.app/www/index.html
+2015-08-11 20:51:31.958 iAd[20740:573084] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/80F1CB49-53F4-44F7-8CA7-9059028C82F2/Library/Cookies/Cookies.binarycookies
+2015-08-11 20:51:32.030 iAd[20740:573084] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 20:51:32.030 iAd[20740:573084] Multi-tasking -> Device: YES, App: YES
+2015-08-11 20:51:32.031 iAd[20740:573084] Unlimited access to network resources
+2015-08-11 20:51:32.033 iAd[20740:573084] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 20:51:32.116 iAd[20740:573084] Resetting plugins due to page load.
+2015-08-11 20:51:32.141 iAd[20740:573084] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/C1452938-53D0-4324-A100-A2C0F3A2D4DE/iAd.app/www/index.html
+2015-08-11 20:58:40.782 iAd[21287:579256] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/4B899F82-9370-446F-9786-3FA7EC2CBF42/Library/Cookies/Cookies.binarycookies
+2015-08-11 20:58:40.844 iAd[21287:579256] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 20:58:40.844 iAd[21287:579256] Multi-tasking -> Device: YES, App: YES
+2015-08-11 20:58:40.846 iAd[21287:579256] Unlimited access to network resources
+2015-08-11 20:58:40.848 iAd[21287:579256] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 20:58:41.088 iAd[21287:579256] Resetting plugins due to page load.
+2015-08-11 20:58:41.111 iAd[21287:579256] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/FFDC25B7-7727-4AB4-9EE5-4083F2E69601/iAd.app/www/index.html
+2015-08-11 21:01:18.468 iAd[21524:581818] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/0A1F2AB9-03AE-41F7-A7C8-B4128E9F45C5/Library/Cookies/Cookies.binarycookies
+2015-08-11 21:01:18.526 iAd[21524:581818] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 21:01:18.527 iAd[21524:581818] Multi-tasking -> Device: YES, App: YES
+2015-08-11 21:01:18.528 iAd[21524:581818] Unlimited access to network resources
+2015-08-11 21:01:18.531 iAd[21524:581818] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 21:01:18.769 iAd[21524:581818] Resetting plugins due to page load.
+2015-08-11 21:01:18.791 iAd[21524:581818] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/891FA97A-E965-4C7B-93D8-ECEC0A9D218E/iAd.app/www/index.html
+2015-08-11 21:04:22.487 iAd[21729:583599] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/2FD0C89F-BE7D-4F2D-B336-B822D3EAFF81/Library/Cookies/Cookies.binarycookies
+2015-08-11 21:04:22.538 iAd[21729:583599] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 21:04:22.538 iAd[21729:583599] Multi-tasking -> Device: YES, App: YES
+2015-08-11 21:04:22.539 iAd[21729:583599] Unlimited access to network resources
+2015-08-11 21:04:22.541 iAd[21729:583599] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 21:04:22.627 iAd[21729:583599] Resetting plugins due to page load.
+2015-08-11 21:04:22.651 iAd[21729:583599] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/5C9D3BB0-864B-4398-8F8C-70534E2D471A/iAd.app/www/index.html
+2015-08-11 21:04:30.605 iAd[21825:583969] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/2933AA88-D84F-4A88-BF81-ABBA943C35F4/Library/Cookies/Cookies.binarycookies
+2015-08-11 21:04:30.653 iAd[21825:583969] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 21:04:30.653 iAd[21825:583969] Multi-tasking -> Device: YES, App: YES
+2015-08-11 21:04:30.655 iAd[21825:583969] Unlimited access to network resources
+2015-08-11 21:04:30.656 iAd[21825:583969] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 21:04:30.748 iAd[21825:583969] Resetting plugins due to page load.
+2015-08-11 21:04:30.772 iAd[21825:583969] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/3AA445AC-5488-4B23-8F5B-51FF75367A54/iAd.app/www/index.html
+2015-08-11 21:05:38.458 iAd[21970:585085] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/8A756CF9-0CA4-49B7-A744-60107DBE2997/Library/Cookies/Cookies.binarycookies
+2015-08-11 21:05:38.506 iAd[21970:585085] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 21:05:38.506 iAd[21970:585085] Multi-tasking -> Device: YES, App: YES
+2015-08-11 21:05:38.507 iAd[21970:585085] Unlimited access to network resources
+2015-08-11 21:05:38.509 iAd[21970:585085] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 21:05:38.595 iAd[21970:585085] Resetting plugins due to page load.
+2015-08-11 21:05:38.619 iAd[21970:585085] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/35D79EFC-EDCC-4AAE-B43E-85AFBD5958A9/iAd.app/www/index.html
+2015-08-11 21:07:46.799 iAd[22113:586428] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/53C0BF45-83F8-4D8E-9999-3DDE8756F1AA/Library/Cookies/Cookies.binarycookies
+2015-08-11 21:07:46.846 iAd[22113:586428] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 21:07:46.846 iAd[22113:586428] Multi-tasking -> Device: YES, App: YES
+2015-08-11 21:07:46.847 iAd[22113:586428] Unlimited access to network resources
+2015-08-11 21:07:46.849 iAd[22113:586428] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 21:07:46.943 iAd[22113:586428] Resetting plugins due to page load.
+2015-08-11 21:07:46.968 iAd[22113:586428] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/391706DD-5869-48A6-9F87-8365F230BC4E/iAd.app/www/index.html
+2015-08-11 21:08:19.098 iAd[22223:587067] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/BF8FF18C-8EF5-477A-A204-389C3800C59F/Library/Cookies/Cookies.binarycookies
+2015-08-11 21:08:19.148 iAd[22223:587067] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 21:08:19.148 iAd[22223:587067] Multi-tasking -> Device: YES, App: YES
+2015-08-11 21:08:19.149 iAd[22223:587067] Unlimited access to network resources
+2015-08-11 21:08:19.151 iAd[22223:587067] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 21:08:19.238 iAd[22223:587067] Resetting plugins due to page load.
+2015-08-11 21:08:19.262 iAd[22223:587067] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/92EBF4D5-8094-48A3-AA81-98ADA2BD3153/iAd.app/www/index.html
+2015-08-11 21:08:45.475 iAd[22331:587663] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/D61E405C-1446-433D-B533-EE1BDAE33877/Library/Cookies/Cookies.binarycookies
+2015-08-11 21:08:45.524 iAd[22331:587663] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 21:08:45.524 iAd[22331:587663] Multi-tasking -> Device: YES, App: YES
+2015-08-11 21:08:45.525 iAd[22331:587663] Unlimited access to network resources
+2015-08-11 21:08:45.527 iAd[22331:587663] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 21:08:45.614 iAd[22331:587663] Resetting plugins due to page load.
+2015-08-11 21:08:45.638 iAd[22331:587663] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/7C128404-06B8-4E9E-AAAA-5E5DBA79B5D7/iAd.app/www/index.html
+2015-08-11 21:09:25.901 iAd[22442:588392] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/5721F82B-CD09-4204-B722-74C9B9DBD811/Library/Cookies/Cookies.binarycookies
+2015-08-11 21:09:25.949 iAd[22442:588392] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 21:09:25.950 iAd[22442:588392] Multi-tasking -> Device: YES, App: YES
+2015-08-11 21:09:25.951 iAd[22442:588392] Unlimited access to network resources
+2015-08-11 21:09:25.952 iAd[22442:588392] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 21:09:26.045 iAd[22442:588392] Resetting plugins due to page load.
+2015-08-11 21:09:26.070 iAd[22442:588392] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/72B8037C-E4C1-4726-B292-A299317A1D20/iAd.app/www/index.html
+2015-08-11 21:10:15.985 iAd[22559:589215] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/CA64CB19-7A36-4E27-B0E7-6FCE3303CD1F/Library/Cookies/Cookies.binarycookies
+2015-08-11 21:10:16.034 iAd[22559:589215] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 21:10:16.034 iAd[22559:589215] Multi-tasking -> Device: YES, App: YES
+2015-08-11 21:10:16.035 iAd[22559:589215] Unlimited access to network resources
+2015-08-11 21:10:16.037 iAd[22559:589215] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 21:10:16.131 iAd[22559:589215] Resetting plugins due to page load.
+2015-08-11 21:10:16.155 iAd[22559:589215] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/27CEE56F-62D0-442C-BBF6-17965D43CC76/iAd.app/www/index.html
+2015-08-11 21:10:43.625 iAd[22669:589878] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/5C652E2E-E513-4E14-804A-02CA9ADB5D46/Library/Cookies/Cookies.binarycookies
+2015-08-11 21:10:43.675 iAd[22669:589878] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 21:10:43.675 iAd[22669:589878] Multi-tasking -> Device: YES, App: YES
+2015-08-11 21:10:43.676 iAd[22669:589878] Unlimited access to network resources
+2015-08-11 21:10:43.678 iAd[22669:589878] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 21:10:43.763 iAd[22669:589878] Resetting plugins due to page load.
+2015-08-11 21:10:43.788 iAd[22669:589878] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/BB64D367-2083-4113-80E7-FC2BAA608981/iAd.app/www/index.html
+2015-08-11 21:21:06.823 iAd[821:7356] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/C699EAE3-9E17-4285-B00F-646794FE8C4B/Library/Cookies/Cookies.binarycookies
+2015-08-11 21:21:06.976 iAd[821:7356] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 21:21:06.976 iAd[821:7356] Multi-tasking -> Device: YES, App: YES
+2015-08-11 21:21:06.988 iAd[821:7356] Unlimited access to network resources
+2015-08-11 21:21:06.995 iAd[821:7356] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 21:21:07.289 iAd[821:7356] Resetting plugins due to page load.
+2015-08-11 21:21:07.879 iAd[821:7356] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/9F8108A0-AC1F-4821-8F2D-3AC3EF948F79/iAd.app/www/index.html
+2015-08-11 21:21:07.899 iAd[821:7356] createBanner
+2015-08-11 21:22:37.199 iAd[991:8727] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Data/Application/01987E3E-6093-40FB-B129-F2241AFBA5A8/Library/Cookies/Cookies.binarycookies
+2015-08-11 21:22:37.254 iAd[991:8727] Apache Cordova native platform version 3.8.0 is starting.
+2015-08-11 21:22:37.254 iAd[991:8727] Multi-tasking -> Device: YES, App: YES
+2015-08-11 21:22:37.256 iAd[991:8727] Unlimited access to network resources
+2015-08-11 21:22:37.258 iAd[991:8727] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-11 21:22:37.339 iAd[991:8727] Resetting plugins due to page load.
+2015-08-11 21:22:37.363 iAd[991:8727] Finished load of: file:///Users/kris.secor/Library/Developer/CoreSimulator/Devices/58117EBF-0AAE-473D-A4E9-663D84F4ECDF/data/Containers/Bundle/Application/9F4587C6-BCA2-4F78-BCD2-A010B666A905/iAd.app/www/index.html
+2015-08-11 21:22:37.377 iAd[991:8727] createBanner
+2015-08-11 21:22:38.133 iAd[991:8727] iAd, onAdLoaded, {'adNetwork':'iAd','adType':'banner','adEvent':'onAdLoaded'}
+2015-08-11 21:22:38.133 iAd[991:8727] statusbar offset:20.000000, overlap:0, ad position:8, x:0, y:0
+2015-08-11 21:22:38.139 iAd[991:8727] window, resize, 
+2015-08-11 21:22:45.946 iAd[991:8727] iAd, onAdLeaveApp, {'adNetwork':'iAd','adType':'banner','adEvent':'onAdLeaveApp'}
+2015-08-11 21:22:51.757 iAd[991:8727] iAd, onAdDismiss, {'adNetwork':'iAd','adType':'banner','adEvent':'onAdDismiss'}
+2015-08-11 21:23:14.111 iAd[991:8727] iAd, onAdLoaded, {'adNetwork':'iAd','adType':'banner','adEvent':'onAdLoaded'}
+2015-08-11 21:23:14.882 iAd[991:9192] Terminating since there is no system app.
